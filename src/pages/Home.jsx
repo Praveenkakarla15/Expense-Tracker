@@ -1,5 +1,5 @@
 import { useState } from "react";
-import NavBar from "../components/NavBar";
+import NavBar from "../components/Navbar";
 
 export default function Home({ user, setUser }) {
   const [income, setIncome] = useState(0);
