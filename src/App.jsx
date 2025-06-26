@@ -17,6 +17,7 @@ export default function App() {
     }
   }, [user]);
 
+  
   return (
     <BrowserRouter>
       <Routes>
